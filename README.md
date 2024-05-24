@@ -1,5 +1,5 @@
-# RailSafar-Online-Railway-Reservtion
-Contributors :<br> Megha : https://github.com/MeghaSingh-5634 <br>
+# -Online-Railway-Reservtion
+Contributors :<br> Khushi :https://github.com/khushurs98<br>
                Anmol: https://github.com/arssite
 ### Railsafar: Online Rail Reservation Software
 
